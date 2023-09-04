@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tripsafe.Users.Service", "Tripsafe\Tripsafe.Users.Service.csproj", "{E05CBD3F-FF68-4109-BFF9-44E7B0DEF60D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tripsafe.Users.Data", "Tripsafe.Users.Data\Tripsafe.Users.Data.csproj", "{D88A2474-12D2-47E7-A083-00C043C6855F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E05CBD3F-FF68-4109-BFF9-44E7B0DEF60D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E05CBD3F-FF68-4109-BFF9-44E7B0DEF60D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E05CBD3F-FF68-4109-BFF9-44E7B0DEF60D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E05CBD3F-FF68-4109-BFF9-44E7B0DEF60D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D88A2474-12D2-47E7-A083-00C043C6855F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D88A2474-12D2-47E7-A083-00C043C6855F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D88A2474-12D2-47E7-A083-00C043C6855F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D88A2474-12D2-47E7-A083-00C043C6855F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18A10D7F-D216-49EB-B5E5-DA2E2AB3A439}
+	EndGlobalSection
+EndGlobal
